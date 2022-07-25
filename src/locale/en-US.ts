@@ -1,0 +1,17 @@
+export default {
+  'appbar.logo': 'Cloud Mountain',
+  'appbar.menu.home': 'Home',
+  'appbar.menu.protect': 'Gibbon Protect',
+  'appbar.menu.protect.archive': 'Archive',
+  'appbar.menu.protect.htp': 'Hoolock Tianxing Protect',
+  'appbar.menu.protect.ncp': 'Nomascus Concolor Protect',
+  'appbar.menu.protect.investigate': 'Investigate',
+  'appbar.menu.report': 'Report',
+  'appbar.menu.aboutus': 'About Us',
+  'appbar.menu.aboutus.council': 'Council',
+  'appbar.menu.aboutus.team': 'Team',
+  'appbar.menu.aboutus.timeline': 'Timeline',
+  'appbar.menu.partner': 'Partner',
+  'appbar.menu.contact': 'Contact',
+  'appbar.menu.donate': 'Donate',
+};
